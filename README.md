@@ -36,7 +36,7 @@ key=dark
 Aqui estão alguns prints do projeto para demonstrar sua interface e funcionalidades:
 
 ### Tema Escuro
-!()
+!(https://github.com/CleytonGravito/Tema_Claro_Ou_Escuro/blob/main/Prints/Claro_Ativado.png)
 
 ### Tema Claro
-!()
+!(https://github.com/CleytonGravito/Tema_Claro_Ou_Escuro/blob/main/Prints/Escuro_Ativado.png)
