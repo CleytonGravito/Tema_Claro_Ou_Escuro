@@ -36,8 +36,5 @@ key=dark
 
 Aqui estão alguns prints do projeto para demonstrar sua interface e funcionalidades:
 
-### Tema Escuro
-![Tema Escuro](Prints/Claro_Ativado.png)
-
-### Tema Claro
-![Tema Claro](Prints/Escuro_Ativado.png)
+![Tema Claro](Prints/Claro_Ativado.png)
+![Tema Escuro](Prints/Escuro_Ativado.png)
