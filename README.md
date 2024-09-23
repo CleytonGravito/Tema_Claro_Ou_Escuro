@@ -30,13 +30,14 @@ O arquivo **config.ini** é gerado automaticamente no diretório de execução d
 ```ini
 [SECTION]
 key=dark
+```
 
 ## Prints do Projeto
 
 Aqui estão alguns prints do projeto para demonstrar sua interface e funcionalidades:
 
 ### Tema Escuro
-!(https://github.com/CleytonGravito/Tema_Claro_Ou_Escuro/blob/main/Prints/Claro_Ativado.png)
+![Tema Escuro](Prints/Claro_Ativado.png)
 
 ### Tema Claro
-!(https://github.com/CleytonGravito/Tema_Claro_Ou_Escuro/blob/main/Prints/Escuro_Ativado.png)
+![Tema Claro](Prints/Escuro_Ativado.png)
