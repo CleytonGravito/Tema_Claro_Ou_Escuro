@@ -1,0 +1,12 @@
+C:\Users\darvi\Documents\Tema_Claro_Ou_Escuro\Projeto_Claro_Escuro\Projeto_Claro_Escuro\bin\Debug\Projeto_Claro_Escuro.exe.config
+C:\Users\darvi\Documents\Tema_Claro_Ou_Escuro\Projeto_Claro_Escuro\Projeto_Claro_Escuro\bin\Debug\Projeto_Claro_Escuro.exe
+C:\Users\darvi\Documents\Tema_Claro_Ou_Escuro\Projeto_Claro_Escuro\Projeto_Claro_Escuro\bin\Debug\Projeto_Claro_Escuro.pdb
+C:\Users\darvi\Documents\Tema_Claro_Ou_Escuro\Projeto_Claro_Escuro\Projeto_Claro_Escuro\bin\Debug\Siticone.UI.dll
+C:\Users\darvi\Documents\Tema_Claro_Ou_Escuro\Projeto_Claro_Escuro\Projeto_Claro_Escuro\obj\Debug\Projeto_Claro_Escuro.csproj.AssemblyReference.cache
+C:\Users\darvi\Documents\Tema_Claro_Ou_Escuro\Projeto_Claro_Escuro\Projeto_Claro_Escuro\obj\Debug\Projeto_Claro_Escuro.Form1.resources
+C:\Users\darvi\Documents\Tema_Claro_Ou_Escuro\Projeto_Claro_Escuro\Projeto_Claro_Escuro\obj\Debug\Projeto_Claro_Escuro.Properties.Resources.resources
+C:\Users\darvi\Documents\Tema_Claro_Ou_Escuro\Projeto_Claro_Escuro\Projeto_Claro_Escuro\obj\Debug\Projeto_Claro_Escuro.csproj.GenerateResource.cache
+C:\Users\darvi\Documents\Tema_Claro_Ou_Escuro\Projeto_Claro_Escuro\Projeto_Claro_Escuro\obj\Debug\Projeto_Claro_Escuro.csproj.CoreCompileInputs.cache
+C:\Users\darvi\Documents\Tema_Claro_Ou_Escuro\Projeto_Claro_Escuro\Projeto_Claro_Escuro\obj\Debug\Projeto_.B3D9D7FC.Up2Date
+C:\Users\darvi\Documents\Tema_Claro_Ou_Escuro\Projeto_Claro_Escuro\Projeto_Claro_Escuro\obj\Debug\Projeto_Claro_Escuro.exe
+C:\Users\darvi\Documents\Tema_Claro_Ou_Escuro\Projeto_Claro_Escuro\Projeto_Claro_Escuro\obj\Debug\Projeto_Claro_Escuro.pdb
